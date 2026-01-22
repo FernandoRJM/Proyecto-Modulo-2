@@ -1,4 +1,4 @@
-# Proyecto 2: Limpieza y procesamiento de datos
+# Análisis y Preprocesamiento de Datos de Préstamos (Lending Club)
 
 ## 📝 Descripción
 Este proyecto consiste en un análisis profundo y tratamiento de un conjunto de datos de Lending Club, una empresa de préstamos en EE. UU.. El objetivo principal es realizar la limpieza, preprocesado y reducción de dimensionalidad de datos históricos de préstamos (2007-2015) para preparar el dataset para futuros modelos predictivos de riesgo crediticio o estado de préstamos.
